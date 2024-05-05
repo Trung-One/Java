@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ecommerce-Website-SE2-main/Admin/Admin.iml" filepath="$PROJECT_DIR$/Ecommerce-Website-SE2-main/Admin/Admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ecommerce-Website-SE2-main/Customer/Customer.iml" filepath="$PROJECT_DIR$/Ecommerce-Website-SE2-main/Customer/Customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ecommerce-Website-SE2-main.iml" filepath="$PROJECT_DIR$/.idea/Ecommerce-Website-SE2-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ecommerce-Website-SE2-main/EcommerceWebsite.iml" filepath="$PROJECT_DIR$/Ecommerce-Website-SE2-main/EcommerceWebsite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ecommerce-Website-SE2-main/Library/Library.iml" filepath="$PROJECT_DIR$/Ecommerce-Website-SE2-main/Library/Library.iml" />
+    </modules>
+  </component>
+</project>
